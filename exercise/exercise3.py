@@ -1,4 +1,4 @@
 import math
-radious = float(input ("Enter the radious of the circle: "))
-circumference = 2 * math.pi * radious
+radius = float(input ("Enter the radius of the circle: "))
+circumference = 2 * math.pi * radius
 print ("circumference:",circumference)
